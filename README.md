@@ -6,7 +6,7 @@ Practical sessions during this semester -
 2. Analog Electronics Circuits Lab
 3. Opertaing Systems Lab
 
-**************************************************************************
+**********************************************************************
 | Date | Week | Subject | Tools/Language | Status |
 | :-: |:-: |:-: |:-: |:-: |
 |12.07.2021|01|[IT Workshop Lab 1 [MATLAB]](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/IT%20WORKSHOP/day1.matlab)| ![](https://img.shields.io/badge/Matlab-E95420?style=for-the-badge&logo=matlab&logoColor=white)   | Done |
