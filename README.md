@@ -13,7 +13,10 @@ Practical sessions during this semester -
 |13.07.2021|01|[Analog Electronics Circuit Lab 1](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/ANALOG%20ELECTRONICS%20CIRCUIT/I_1_Analog_Electronics_Lab_Asst_1.pdf) | ![](https://img.shields.io/badge/Multisim-14.2-00457C?style=for-the-badge&logo=multisim&logoColor=white) | Done |
 |15.07.2021|01|[Operating Systems Lab 1](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/OPERATING%20SYSTEMS%20LAB/I_1_OS%20Lab_A1_15.07.2021.pdf) |![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  | Done |
 |16.07.2021|01| [Deep Learning Linear Algebra L1](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/DEEP%20LEARNING/Deep_Learning_LA1.ipynb) | [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) | Done |
-|16.07.2021|01| [IT Workshop Python](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/IT%20WORKSHOP/IT_Workshop_Python_16_07_2021.ipynb) | ![](https://img.shields.io/badge/Colab-FCC624?style=for-the-badge&logo=colab&logoColor=black) | Done |
+|16.07.2021|01| [IT Workshop Lab 2 [Python]](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/IT%20WORKSHOP/IT_Workshop_Python_16_07_2021.ipynb) | ![](https://img.shields.io/badge/Colab-FCC624?style=for-the-badge&logo=colab&logoColor=black) | Done |
+|19.07.2021|02| [IT Workshop Lab 3 [Python]]() |  |   |
+|19.07.2021|02| [IT Workshop Lab 2 [MATLAB]]() |  |   |
+
 
 
 ***************************************************************************
