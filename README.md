@@ -5,6 +5,7 @@ Practical sessions during this semester -
 1. IT workshop [Python/MATLAB/R]
 2. Analog Electronics Circuits Lab
 3. Opertaing Systems Lab
+4. Deep Learning [Professional Elective Course - PEC]
 
 ********************************************************************
 | Date | Week | Subject | Tools/Language | Status |
