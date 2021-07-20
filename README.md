@@ -9,7 +9,7 @@ Practical sessions during this semester -
 
 ********************************************************************
 | Date | Week | Subject | Tools/Language | Status |
-| :-: |:-: |:-: |:-: |:-: |
+| :---: |:---: |:---: |:---: |:---: |
 |12.07.2021|01|[IT Workshop Lab 1 [MATLAB]](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/IT%20WORKSHOP/IT_WORKSHOP_MATLAB_12_07_2021.matlab)| ![](https://img.shields.io/badge/Matlab-E95420?style=for-the-badge&logo=matlab&logoColor=white)   | Done |
 |13.07.2021|01|[Analog Electronics Circuit Lab 1](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/ANALOG%20ELECTRONICS%20CIRCUIT/I_1_Analog_Electronics_Lab_Asst_1.pdf) | ![](https://img.shields.io/badge/Multisim-14.2-00457C?style=for-the-badge&logo=multisim&logoColor=white) | Done |
 |15.07.2021|01|[Operating Systems Lab 1](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/OPERATING%20SYSTEMS%20LAB/I_1_OS%20Lab_A1_15.07.2021.pdf) |![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  | Done |
