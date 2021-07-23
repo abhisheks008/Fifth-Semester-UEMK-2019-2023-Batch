@@ -1,5 +1,5 @@
 ## IT Workshop Laboratory 3 - Module : MATLAB
-Date : 19.07.2021
+Date : 22.07.2021
 Platform used : MATLAB Online or, GNU Octave Online
 
 Today we are going to solve the problems given in the assignment.
