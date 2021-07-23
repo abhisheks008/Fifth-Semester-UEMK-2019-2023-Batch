@@ -18,6 +18,7 @@ Practical sessions during this semester -
 |19.07.2021|02| [IT Workshop Lab 2 [MATLAB]](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/IT%20WORKSHOP/IT_WORKSHOP_MATLAB_19_07_2021.md) | ![](https://img.shields.io/badge/Matlab-E95420?style=for-the-badge&logo=matlab&logoColor=white)   |  All Done |
 |20.07.2021|02| [Deep Learning Probabilistic Analysis L2](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/DEEP%20LEARNING/Deep_Learning_PA2.ipynb) | [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) | All Done |
 |20.07.2021|02| [Analog Electronics Circuit Lab 2]() | ![](https://img.shields.io/badge/Multisim-14.2-00457C?style=for-the-badge&logo=multisim&logoColor=white) | TBD |
+|22.07.2021|02| [IT Workshop Lab 3 [MATLAB] (Assignment 1 Included)](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/IT%20WORKSHOP/IT_WORKSHOP_MATLAB_23_07_2021.md)|![](https://img.shields.io/badge/Matlab-E95420?style=for-the-badge&logo=matlab&logoColor=white)   |  All Done |
 
 
 ***************************************************************************
