@@ -19,7 +19,7 @@ Practical sessions during this semester -
 |20.07.2021|02| [Deep Learning Probabilistic Analysis L2](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/DEEP%20LEARNING/Deep_Learning_PA2.ipynb) | [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) | All Done |
 |20.07.2021|02| [Analog Electronics Circuit Lab 2](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/ANALOG%20ELECTRONICS%20CIRCUIT/I_1_Analog_Electronics_Lab_Asst_2.pdf) | ![](https://img.shields.io/badge/Multisim-14.2-00457C?style=for-the-badge&logo=multisim&logoColor=white) | All Done |
 |22.07.2021|02| [IT Workshop Lab 3 [MATLAB] (Assignment 1 Included)](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/IT%20WORKSHOP/IT_WORKSHOP_MATLAB_22_07_2021.md)|![](https://img.shields.io/badge/Matlab-E95420?style=for-the-badge&logo=matlab&logoColor=white)   |  All Done |
-|26.07.2021|01|[Operating Systems Lab 2](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/OPERATING%20SYSTEMS%20LAB/I_1_OS%20Lab_A2_26.07.2021.pdf) |![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  | All Done |
+|26.07.2021|02|[Operating Systems Lab 2](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/OPERATING%20SYSTEMS%20LAB/I_1_OS%20Lab_A2_26.07.2021.pdf) |![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  | All Done |
 
 
 
