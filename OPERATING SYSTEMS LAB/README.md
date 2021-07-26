@@ -11,7 +11,8 @@ Link for the Microsoft Store : https://www.microsoft.com/en-us/p/ubuntu/9nblggh4
 *******************************************************
 |Date | Week | Assignment | Submission Link |
 |:-:|:-:|:-:|:-:|
-|15.07.2021|01| [Assignment](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/tree/main/OPERATING%20SYSTEMS%20LAB)| [Submission Link](https://docs.google.com/forms/d/1mGie6Z8hSaKVsED5Uq_C7wSLkLEOSLpVCpTE1Yzo05s/edit)
+|15.07.2021|01| [Assignment 1](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/tree/main/OPERATING%20SYSTEMS%20LAB/I_1_OS%20Lab_A1_15.07.2021.pdf)| [Submission Link](https://docs.google.com/forms/d/1mGie6Z8hSaKVsED5Uq_C7wSLkLEOSLpVCpTE1Yzo05s/edit)
+|22.07.2021|02| [Assignment 2](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/OPERATING%20SYSTEMS%20LAB/I_1_OS%20Lab_A2_26.07.2021.pdf)| [Submission Link](https://docs.google.com/forms/d/1mGie6Z8hSaKVsED5Uq_C7wSLkLEOSLpVCpTE1Yzo05s/closedform)
 
 *********************************************************
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
