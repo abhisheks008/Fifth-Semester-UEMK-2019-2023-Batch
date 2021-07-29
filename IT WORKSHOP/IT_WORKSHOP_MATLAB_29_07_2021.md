@@ -86,6 +86,7 @@ ylabel("f(x)")
 title("Analysis of Matlab Plot using Sine and Cosine wave")
 ```
 **Output**
+
 ![](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/IT%20WORKSHOP/Snapshots/plot.png)
 
 **3. Script for deployment of `fprint` function.**
