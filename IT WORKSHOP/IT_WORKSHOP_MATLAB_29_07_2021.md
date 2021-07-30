@@ -143,6 +143,9 @@ disp ("Determinant of the matrix : ");
 det(m)
 disp ("Inverse of the matrix : ");
 inv(m)
+disp ("The transpose of a Matrix");
+y = m';
+disp (y);
 ```
 **Output**
 ```
@@ -166,6 +169,12 @@ ans =
    1.2347e-17     -0.17769     0.061983      0.16529
             1    -0.020661     -0.94628     -0.69008
    1.1706e-17      0.03719      0.10331    -0.057851
+   
+The transpose of a Matrix
+     9    10     2    10
+     7     1     3     6
+    10    10     2    10
+    10     5     9     2
 ```
 
 ********************************************************
