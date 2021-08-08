@@ -21,3 +21,15 @@ This IT workshop is scheduled for having the industry knowledge in various field
 _**N.B.:** Download all the updated versions of the softwares and check the configurations of your systems before downloading the softwares!_
 
 
+### Assignments done so far...
+|Date|Topic|Assignment No.|
+|:-:|:-:|:-:|
+|12.07.2021|MATLAB|Assignment 1|
+|16.07.2021|Python|Assignment|
+|19.07.2021|MATLAB|Assignment 2|
+|22.07.2021|MATLAB|Assignment 3|
+|29.07.2021|MATLAB|Assignment 4|
+|05.08.2021|MATLAB|Assignment 5|
+
+******************************************************************************
+![](https://img.shields.io/badge/Matlab-E95420?style=for-the-badge&logo=matlab&logoColor=white)   ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
