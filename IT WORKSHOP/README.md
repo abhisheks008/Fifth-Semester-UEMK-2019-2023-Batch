@@ -2,8 +2,9 @@
 This IT workshop is scheduled for having the industry knowledge in various fields like, Python Progeamming and R Programming, MATLAB Programming and Development, WEB and Andriod Development and many more industry related stuffs!
 
 <div>
-  <align = 'centre'>
+  <p align = 'center'>
     <a href = "image"><img src = "https://i.pinimg.com/originals/31/5e/db/315edbde71190999ebdc6fb60965fb00.jpg"></a>
+  </p>
 </div>
 
 ### Softwares to be used :
