@@ -30,6 +30,7 @@ _**N.B.:** Download all the updated versions of the softwares and check the conf
 |22.07.2021|MATLAB|Assignment 3|
 |29.07.2021|MATLAB|Assignment 4|
 |05.08.2021|MATLAB|Assignment 5|
+|12.08.2021|MATLAB|Assignment 6|
 
 ******************************************************************************
 ![](https://img.shields.io/badge/Matlab-E95420?style=for-the-badge&logo=matlab&logoColor=white)   ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
