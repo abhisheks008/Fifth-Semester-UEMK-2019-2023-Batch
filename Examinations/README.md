@@ -3,8 +3,8 @@ Here all the question papers of the Term examinations and the End Semester exami
 
 |Category|Date|Subject|Paper Code|Theory|Practical|Question Paper|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Mid Term - I |31.08.2021|Essential Studies for Professionals – V|HSMC501|:heavy_check_mark:|:x:|[Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20I/ESC501.pdf)|
-| Mid Term - I |01.09.2021|Signals & Systems|ESC501|:heavy_check_mark:|:x:|-|
+| Mid Term - I |31.08.2021|Essential Studies for Professionals – V|HSMC501|:heavy_check_mark:|:x:| |
+| Mid Term - I |01.09.2021|Signals & Systems|ESC501|:heavy_check_mark:|:x:|[Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20I/ESC501.pdf)|
 | Mid Term - I |02.09.2021|Analog Electronic Circuits|ESC502|:heavy_check_mark:|:x:|-|
 | Mid Term - I |03.09.2021|Operating Systems|PCC-CS501|:heavy_check_mark:|:x:|-|
 | Mid Term - I |06.09.2021|IT Workshop|PCC-CS502|:heavy_check_mark:|:x:|-|
