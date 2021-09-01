@@ -36,6 +36,7 @@ Practical sessions during this semester -
 |27.08.2021|07| [Analog Electronics Circuit Lab 7](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/ANALOG%20ELECTRONICS%20CIRCUIT/Assignment-4_I_01_Analog%20Electronics%20Lab.pdf) | ![](https://img.shields.io/badge/Multisim-14.2-00457C?style=for-the-badge&logo=multisim&logoColor=white) | All Done |
 | 30.08.2021 | 07 | [Operating Systems Lab 7](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/OPERATING%20SYSTEMS%20LAB/I_1_OS%20Lab_A7_30.08.2021.pdf) |![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  | All Done |
 | 31.08.2021 | - | Essential Studies Program - V | Mid-Term I | Question Paper |
+| 01.09.2021 | - | Signals and Systems | Mid-Term I | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20I/ESC501.pdf) |
 
 
 
