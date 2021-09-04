@@ -38,7 +38,7 @@ Practical sessions during this semester -
 | 31.08.2021 | - | Essential Studies Program - V | Mid-Term I | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20I/HSMC501_UEMK_2019-23_T1.pdf) |
 | 01.09.2021 | - | Signals and Systems | Mid-Term I | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20I/ESC501.pdf) |
 | 02.09.2021 | - | Analog Electronics Circuit | Mid-Term I | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20I/ESC502.pdf) |
-| 03.09.2021 | - | Operating Systems | Mid-Term I | []() |
+| 03.09.2021 | - | Operating Systems | Mid-Term I | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20I/PCCCS501.pdf) |
 
 
 
