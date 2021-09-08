@@ -41,7 +41,7 @@ Practical sessions during this semester -
 | 03.09.2021 | - | Operating Systems | Mid-Term I | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20I/PCCCS501.pdf) |
 | 06.09.2021 | - | IT Workshop | Mid-Term I | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20I/PCCCS502.pdf)|
 | 07.09.2021 | - | Deep Learning | Mid-Term I | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20I/PEC501.pdf) |
-| 08.09.2021 | - | Environmental Sciences (EVS) | Mid-Term I | |
+| 08.09.2021 | - | Environmental Sciences (EVS) | Mid-Term I |[Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20I/MC501.pdf) |
 
 
 
