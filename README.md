@@ -42,7 +42,7 @@ Practical sessions during this semester -
 | 06.09.2021 | - | IT Workshop | Mid-Term I | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20I/PCCCS502.pdf)|
 | 07.09.2021 | - | Deep Learning | Mid-Term I | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20I/PEC501.pdf) |
 | 08.09.2021 | - | Environmental Sciences (EVS) | Mid-Term I |[Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20I/MC501.pdf) |
-
+|09.09.2021|08| [IT Workshop Lab 8 [MATLAB]](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/IT%20WORKSHOP/IT_WORKSHOP_MATLAB-8_09_09_2021.pdf)|![](https://img.shields.io/badge/Matlab-E95420?style=for-the-badge&logo=matlab&logoColor=white)   |  All Done |
 
 
 ***************************************************************************
