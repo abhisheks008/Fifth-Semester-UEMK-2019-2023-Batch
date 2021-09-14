@@ -14,7 +14,7 @@ _University of Engineering and Management, Kolkata - Department of Computer Scie
 | |Study of DAC & ADC | TBD | | |
 | |Design of Combinational circuit for BCD to decimal conversion to drive 7-segment display using Multiplexer| TBD | | |
 | | Study of Inverting and Non Inverting Amplifier using Op-Amp| TBD | | |
-| |Study of Voltage Adder Circuit using Op-Amp| TBD | | |
+| |Study of Voltage Adder Circuit using Op-Amp| TBD | [Voltage Adder using Inverting Op-Amp](https://www.multisim.com/content/oCCmhUV8fbDaCm4AL39JVA/voltage-adder-using-inverting-op-amp/open/), [Voltage Adder using Non-inverting Op-Amp](https://www.multisim.com/content/hY4vKoMhGdwp6GckVehNSK/voltage-adder-using-non-inverting-op-amp/open/) | |
 | |Study of Voltage Subtractor Using Op Amp | TBD | | |
 
 
