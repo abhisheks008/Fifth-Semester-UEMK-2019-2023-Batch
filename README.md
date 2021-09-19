@@ -7,7 +7,6 @@ Practical sessions during this semester -
 3. Opertaing Systems Lab
 4. Deep Learning [Professional Elective Course - PEC]
 
-
 **********************************************************
 | Date | Week No. | Subject | Tools/Language Used | Status |
 | :---: |:---: |:---: |:---: |:---: |
