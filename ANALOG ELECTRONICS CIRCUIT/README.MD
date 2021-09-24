@@ -12,10 +12,11 @@ _University of Engineering and Management, Kolkata - Department of Computer Scie
 | 27.08.2021 |	Realization V-I & I-V converter using Operational Amplifier | **Done** ✔️ | [V-I Converter](https://www.multisim.com/content/WqEJE29Q3RfjDaXsqQ2Ss5/v-i-converter-using-op-amp-non-inverting/open/), [I-V Converter](https://www.multisim.com/content/7wXgYiXHWA3ksdHHsjyf3X/i-v-converter-using-op-amp-inverting/open/) | [Lab Report](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/ANALOG%20ELECTRONICS%20CIRCUIT/Assignment-4_I_01_Analog%20Electronics%20Lab.pdf) |
 | 10.09.2021 |Study of timer circuit using NE 555 and configuration of Monostable and Astable Multivibrator| **Done** ✔️ | [Monostable Multivibrator](https://www.multisim.com/content/HTWkdnp23XYEWSQGRGqZyD/monostable-multivibrator-using-ne-555/), [Astable Multivibrator](https://www.multisim.com/content/ZKxnyAzZ9VA2nHXNDG9rk7/astable-multivibrator-using-ne-555/) | [Lab Report](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/ANALOG%20ELECTRONICS%20CIRCUIT/Assignment-5_I_01_Analog%20Electronics%20Lab.pdf) |
 | 24.09.2021 |Study of Voltage Adder Circuit using Op-Amp| **Done** ✔️ | [Voltage Adder using Inverting Op-Amp](https://www.multisim.com/content/oCCmhUV8fbDaCm4AL39JVA/voltage-adder-using-inverting-op-amp/open/), [Voltage Adder using Non-inverting Op-Amp](https://www.multisim.com/content/hY4vKoMhGdwp6GckVehNSK/voltage-adder-using-non-inverting-op-amp/open/) | [Lab Report](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/ANALOG%20ELECTRONICS%20CIRCUIT/Assignment-6_I_01_Analog%20Electronics%20Lab.pdf)|
+| |Study of Voltage Subtractor Using Op Amp | TBD | [Voltage Subtractor using Op-Amp](https://www.multisim.com/content/955p32aiCgrvT9G9BnfABK/voltage-subtractor-using-op-amp/) | |
 | |Study of DAC & ADC | TBD | | |
 | |Design of Combinational circuit for BCD to decimal conversion to drive 7-segment display using Multiplexer| TBD | | |
 | | Study of Inverting and Non Inverting Amplifier using Op-Amp| TBD | | |
-| |Study of Voltage Subtractor Using Op Amp | TBD | | |
+
 
 
 
