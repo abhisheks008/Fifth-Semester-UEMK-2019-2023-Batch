@@ -48,8 +48,7 @@ Practical sessions during this semester -
 | 20.09.2021 | 09 | [Operating Systems Lab 8](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/OPERATING%20SYSTEMS%20LAB/I_1_OS%20Lab_A8_13.09.2021.pdf) |![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  | All Done |
 |24.09.2021|10| [Analog Electronics Circuit Lab 9](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/ANALOG%20ELECTRONICS%20CIRCUIT/Assignment-6_I_01_Analog%20Electronics%20Lab.pdf) | ![](https://img.shields.io/badge/Multisim-14.2-00457C?style=for-the-badge&logo=multisim&logoColor=white) | All Done |
 | 27.09.2021 | 10 | [Operating Systems Lab 9 and 10](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/OPERATING%20SYSTEMS%20LAB/I_1_OS%20Lab_A9%20%26%20A10_27.09.2021.pdf) |![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  | All Done |
-
-
+| 04.10.2021 | 11 | [Operating Systems Lab 11](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/OPERATING%20SYSTEMS%20LAB/I_1_OS%20Lab_CA_04.10.2021.pdf) |![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  | All Done |
 
 
 
