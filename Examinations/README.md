@@ -12,6 +12,16 @@ Here all the question papers of the Term examinations and the End Semester exami
 | Mid Term - I |08.09.2021|Environmental Sciences|MC501|:heavy_check_mark:|:x:|[Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20I/MC501.pdf)|
 
 
+|Category|Date|Subject|Paper Code|Theory|Practical|Question Paper|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Mid Term - I |26.10.2021|Operating Systems|PCC-CS501|:heavy_check_mark:|:x:|[Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/PCCCS501_QP_Term2.pdf)|
+| Mid Term - I |28.10.2021|IT Workshop|PCC-CS502|:heavy_check_mark:|:x:|-|
+| Mid Term - I |01.11.2021|Deep Learning|PEC-CS501|:heavy_check_mark:|:x:|-|
+| Mid Term - I |03.11.2021|Analog Electronic Circuits|ESC502|:heavy_check_mark:|:x:|-|
+| Mid Term - I |03.11.2021|Environmental Sciences|MC501|:heavy_check_mark:|:x:| - |
+| Mid Term - I |09.11.2021|Signals & Systems|ESC501|:heavy_check_mark:|:x:|-|
+| Mid Term - I |11.11.2021|Essential Studies for Professionals – V|HSMC501|:heavy_check_mark:|:x:| - |
+
 
 ************************************************************
 
