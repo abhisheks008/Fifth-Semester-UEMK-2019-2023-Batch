@@ -14,9 +14,10 @@ _University of Engineering and Management, Kolkata - Department of Computer Scie
 | 24.09.2021 |Study of Voltage Adder Circuit using Op-Amp| **Done** ✔️ | [Voltage Adder using Inverting Op-Amp](https://www.multisim.com/content/oCCmhUV8fbDaCm4AL39JVA/voltage-adder-using-inverting-op-amp/open/), [Voltage Adder using Non-inverting Op-Amp](https://www.multisim.com/content/hY4vKoMhGdwp6GckVehNSK/voltage-adder-using-non-inverting-op-amp/open/) | [Lab Report](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/ANALOG%20ELECTRONICS%20CIRCUIT/Assignment-6_I_01_Analog%20Electronics%20Lab.pdf)|
 | 01.10.2021 |Study of DAC & ADC | **Done ✔️** | [DAC Circuit](https://www.multisim.com/content/gFrPLrp2go9TvFspVxeSyc/dac-circuit/), [Flash ADC](https://www.multisim.com/content/xNsyyL9pe2LdpgJjQ5ZTVg/flash-adc-circuit/) | [Lab Report](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/ANALOG%20ELECTRONICS%20CIRCUIT/Assignment-7_I_01_Analog%20Electronics%20Lab.pdf) |
 | 08.10.2021 |Study of Voltage Subtractor Using Op Amp | **Done ✔️** | [Voltage Subtractor using Op-Amp](https://www.multisim.com/content/955p32aiCgrvT9G9BnfABK/voltage-subtractor-using-op-amp/) |-|
-| |Design of Combinational circuit for BCD to decimal conversion to drive 7-segment display using Multiplexer| TBD | | |
+| - |Design of Combinational circuit for BCD to decimal conversion to drive 7-segment display using Multiplexer| - | `MultiSim does not support BCD to 7-segment display circuit` | - |
 | 08.10.2021 | Study of Inverting and Non Inverting Amplifier using Op-Amp| **Done ✔️** | [Circuit of Both types of Op-Amp](https://www.multisim.com/content/EzvfgwHcZv9TvkqX7g55cQ/non-inverting-and-inverting-op-amp/) | - |
-
+| 08.10.2021 | Class Assignment | **Done ✔️** | - | [Lab Report](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/ANALOG%20ELECTRONICS%20CIRCUIT/Class-Assignment_I_01_Analog%20Electronics%20Lab.pdf) |
+| 22.10.2021 | Assignment 10 (Viva Voce Assignment) | **Done ✔️** | - | [Lab Report](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/ANALOG%20ELECTRONICS%20CIRCUIT/Assignment-10_I_01_Analog%20Electronics%20Lab.pdf)
 
 
 
