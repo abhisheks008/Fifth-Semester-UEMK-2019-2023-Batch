@@ -52,6 +52,8 @@ Practical sessions during this semester -
 | 04.10.2021 | 11 | [Operating Systems Lab 11](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/OPERATING%20SYSTEMS%20LAB/I_1_OS%20Lab_CA_04.10.2021.pdf) |![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  | All Done |
 |08.10.2021|12| [Analog Electronics Circuit Lab 11](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/ANALOG%20ELECTRONICS%20CIRCUIT/Class-Assignment_I_01_Analog%20Electronics%20Lab.pdf) | ![](https://img.shields.io/badge/Multisim-14.2-00457C?style=for-the-badge&logo=multisim&logoColor=white) | All Done |
 | 15.10.2021|-| [IT Workshop - Module :  Android Development and Augmented Reality](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/IT%20WORKSHOP/I_01_IT%20Workshop%20Assignment%20(Unity%20and%20Android).pdf)|![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Android Dev](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | All Done |
+| 22.10.2021 | - | [Analog Electronics Lab Viva Voce Examination Assignment](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/ANALOG%20ELECTRONICS%20CIRCUIT/Assignment-10_I_01_Analog%20Electronics%20Lab.pdf) | ![](https://img.shields.io/badge/Multisim-14.2-00457C?style=for-the-badge&logo=multisim&logoColor=white) | All Done |
+| 26.10.2021 | - | Operating Systems | Mid-Term II | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/PCCCS501_QP_Term2.pdf) |
 
 
 
