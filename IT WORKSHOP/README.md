@@ -33,9 +33,7 @@ _**N.B.:** Download all the updated versions of the softwares and check the conf
 |12.08.2021|MATLAB|Assignment 6|:heavy_check_mark: |
 |19.08.2021|MATLAB|Assignment 7| ✔️ |
 |09.09.2021|MATLAB|Assignment 8| ✔️ |
-|16.09.2021|MATLAB|Assignment 9| |
-|25.09.2021|MATLAB|Assignment 10| |
-|02.10.2021|MATLAB|Assignment 11| |
+
 
 
 
