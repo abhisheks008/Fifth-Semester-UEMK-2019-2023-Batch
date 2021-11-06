@@ -55,6 +55,11 @@ Practical sessions during this semester -
 | 22.10.2021 | - | [Analog Electronics Lab Viva Voce Examination Assignment](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/ANALOG%20ELECTRONICS%20CIRCUIT/Assignment-10_I_01_Analog%20Electronics%20Lab.pdf) | ![](https://img.shields.io/badge/Multisim-14.2-00457C?style=for-the-badge&logo=multisim&logoColor=white) | All Done |
 | 26.10.2021 | - | Operating Systems | Mid-Term II | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/PCCCS501_QP_Term2.pdf) |
 | 28.10.2021 | - | IT Workshop | Mid-Term II | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/PCCCS502_QP_Term2.pdf) |
+| 01.11.2021 | - | Deep Learning | Mid-Term II | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/PECCS501%20_QP_Term2.pdf) |
+| 03.11.2021 | - | Analog Electronics Circuit | Mid-Term II | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/ESC502_QP_Term2.pdf) |
+| 03.11.2021 | - | Environmental Studies | Mid-Term II |
+
+
 
 
 
