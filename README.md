@@ -57,7 +57,7 @@ Practical sessions during this semester -
 | 28.10.2021 | - | IT Workshop | Mid-Term II | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/PCCCS502_QP_Term2.pdf) |
 | 01.11.2021 | - | Deep Learning | Mid-Term II | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/PECCS501%20_QP_Term2.pdf) |
 | 03.11.2021 | - | Analog Electronics Circuit | Mid-Term II | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/ESC502_QP_Term2.pdf) |
-| 03.11.2021 | - | Environmental Studies | Mid-Term II |
+| 03.11.2021 | - | Environmental Studies | Mid-Term II | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/MC501%20QP_Term2.pdf) |
 
 
 
