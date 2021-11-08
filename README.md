@@ -7,7 +7,7 @@ Practical sessions during this semester -
 3. Opertaing Systems Lab
 4. Deep Learning [Professional Elective Course - PEC]
 
-***************************************************************
+*****************************************************************************************
 | Date | Week No. | Subject | Tools/Language Used | Status |
 | :---: |:---: |:---: |:---: |:---: |
 |12.07.2021|01|[IT Workshop Lab 1 [MATLAB]](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/IT%20WORKSHOP/IT_WORKSHOP_MATLAB-1_12_07_2021.matlab)| ![](https://img.shields.io/badge/Matlab-E95420?style=for-the-badge&logo=matlab&logoColor=white)   | All Done |
