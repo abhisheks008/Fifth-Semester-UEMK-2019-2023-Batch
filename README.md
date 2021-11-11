@@ -59,6 +59,7 @@ Practical sessions during this semester -
 | 03.11.2021 | - | Analog Electronics Circuit | Mid-Term II | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/ESC502_QP_Term2.pdf) |
 | 03.11.2021 | - | Environmental Studies | Mid-Term II | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/MC501%20QP_Term2.pdf) |
 | 09.11.2021 | - | Signals and Systems | Mid-Term II | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/ESC501_QP_Term2.pdf) |
+| 11.11.2021 | - | Essential Studies Program - V | Mid-Term II | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/HSMC501_UEMK_2019-23_T2.pdf) |
 
 
 
