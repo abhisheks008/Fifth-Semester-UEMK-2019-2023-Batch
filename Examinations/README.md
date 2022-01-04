@@ -28,7 +28,7 @@ Here all the question papers of the Term examinations and the End Semester exami
 
 |Category|Date|Subject|Paper Code|Theory|Practical|Question Paper|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| End Sem Exams | 04.01.2022 | Skill Development Practices | HSMC582 | :x: | ✔️ | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/HSMC582_CSE_UEMK(SDP%20)%20QUESTION%20PAPER%20B.TECH%203RD%20ODD%20SEM%202021_SET%20A.pdf) |
+| End Sem Exams | 04.01.2022 | Skill Development Practices (SDP) - V | HSMC582 | :x: | ✔️ | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/HSMC582_CSE_UEMK(SDP%20)%20QUESTION%20PAPER%20B.TECH%203RD%20ODD%20SEM%202021_SET%20A.pdf) |
 | End Sem Exams | 06.01.2022 | Operating Systems Laboratory | PCC-CS591 | :x: | ✔️ | - |
 
 
