@@ -60,6 +60,11 @@ Practical sessions during this semester -
 | 03.11.2021 | - | Environmental Studies | Mid-Term II | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/MC501%20QP_Term2.pdf) |
 | 09.11.2021 | - | Signals and Systems | Mid-Term II | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/ESC501_QP_Term2.pdf) |
 | 11.11.2021 | - | Essential Studies Program - V | Mid-Term II | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/Term%20-%20II/HSMC501_UEMK_2019-23_T2.pdf) |
+| 04.01.2022 | - | Skill Development Program (SDP) - V | End Sems | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/HSMC582_CSE_UEMK(SDP%20)%20QUESTION%20PAPER%20B.TECH%203RD%20ODD%20SEM%202021_SET%20A.pdf)|
+| 06.01.2022 | - | Operating Systems Lab | End Sems | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/PCCCS591.md) |
+| 10.01.2022 | - | IT Workshop Practicals | End Sems | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/PCCCS592.md) |
+| 13.01.2022 | - | Analog Electronics Circuits Lab | End Sems | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/ESC592.md) |
+| 17.01.2022 | - | Signals and Systems | End Sems | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/ESC501_END-SEM-2022.pdf) |
 
 
 
