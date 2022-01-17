@@ -29,7 +29,17 @@ Here all the question papers of the Term examinations and the End Semester exami
 |Category|Date|Subject|Paper Code|Theory|Practical|Question Paper|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | End Sem Exams | 04.01.2022 | Skill Development Practices (SDP) - V | HSMC582 | :x: | ✔️ | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/HSMC582_CSE_UEMK(SDP%20)%20QUESTION%20PAPER%20B.TECH%203RD%20ODD%20SEM%202021_SET%20A.pdf) |
-| End Sem Exams | 06.01.2022 | Operating Systems Laboratory | PCC-CS591 | :x: | ✔️ | - |
+| End Sem Exams | 06.01.2022 | Operating Systems Laboratory | PCC-CS591 | :x: | ✔️ | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/PCCCS591.md) |
+| End Sem Exams | 10.01.2022 | IT Workshop Laboratory | PCC-CS592 | :x: | ✔️ | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/PCCCS592.md) |
+| End Sem Exams | 13.01.2022 | Analog Electronics Circuits Laboratory | ESC592 | :x: | ✔️ | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/ESC592.md) |
+| End Sem Exams | 17.01.2022 | Signals and Systems | ESC501 | ✔️ | :x: | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/ESC501_END-SEM-2022.pdf) |
+| End Sem Exams | 19.01.2022 | Analog Electronics Circuits Laboratory | ESC502 | ✔️ | :x: | [Question Paper](-) |
+| End Sem Exams | 21.01.2022 | Operating Systems | PCC-CS501 | ✔️ | :x: | [Question Paper](-) |
+| End Sem Exams | 22.01.2022 | Essential Studies Program (ESP) - V | HSMC501 | ✔️ | :x: | [Question Paper](-) |
+| End Sem Exams | 25.01.2022 | IT Workshop | PCC-CS502 | ✔️ | :x: | [Question Paper](-) |
+| End Sem Exams | 27.01.2022 | Deep Learning | PEC-CS501 | ✔️ | :x: | [Question Paper](-) |
+| End Sem Exams | 29.01.2022 | Environmental Sciences | MC501 | ✔️ | :x: | [Question Paper](-) |
+
 
 
       
