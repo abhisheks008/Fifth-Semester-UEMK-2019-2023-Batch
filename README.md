@@ -65,7 +65,7 @@ Practical sessions during this semester -
 | 10.01.2022 | - | IT Workshop Practicals | End Sems | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/PCCCS592.md) |
 | 13.01.2022 | - | Analog Electronics Circuits Lab | End Sems | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/ESC592.md) |
 | 17.01.2022 | - | Signals and Systems | End Sems | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/ESC501_END-SEM-2022.pdf) |
-
+| 19.01.2022 | - | Analog Electronics Circuits | End Sems | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/ESC502_END-SEM_2022.pdf) |
 
 
 
