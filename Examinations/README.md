@@ -33,7 +33,7 @@ Here all the question papers of the Term examinations and the End Semester exami
 | End Sem Exams | 10.01.2022 | IT Workshop Laboratory | PCC-CS592 | :x: | ✔️ | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/PCCCS592.md) |
 | End Sem Exams | 13.01.2022 | Analog Electronics Circuits Laboratory | ESC592 | :x: | ✔️ | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/ESC592.md) |
 | End Sem Exams | 17.01.2022 | Signals and Systems | ESC501 | ✔️ | :x: | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/ESC501_END-SEM-2022.pdf) |
-| End Sem Exams | 19.01.2022 | Analog Electronics Circuits Laboratory | ESC502 | ✔️ | :x: | [Question Paper](-) |
+| End Sem Exams | 19.01.2022 | Analog Electronics Circuits Laboratory | ESC502 | ✔️ | :x: | [Question Paper](https://github.com/abhisheks008/Fifth-Semester-UEMK-2019-2023-Batch/blob/main/Examinations/End%20Semester%20Exam/ESC502_END-SEM_2022.pdf) |
 | End Sem Exams | 21.01.2022 | Operating Systems | PCC-CS501 | ✔️ | :x: | [Question Paper](-) |
 | End Sem Exams | 22.01.2022 | Essential Studies Program (ESP) - V | HSMC501 | ✔️ | :x: | [Question Paper](-) |
 | End Sem Exams | 25.01.2022 | IT Workshop | PCC-CS502 | ✔️ | :x: | [Question Paper](-) |
